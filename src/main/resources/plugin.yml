@@ -1,0 +1,4 @@
+name: Kunai
+version: '${project.version}'
+main: mintychochip.kunai.Kunai
+api-version: 1.20
